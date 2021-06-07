@@ -39,7 +39,7 @@ Bardziej szczegółowe funkcjonalności które zostały zawarte to:
 - **API Gateway** - to pewien rodzaj reverse proxy. Jego rolą jest odizolowanie reszty mikroserwisów od kwesti związanych z obsługą zapytań z aplikacji klienckich, a więc będzie on przekierowywał zapytania z klienta do odpowiednich serwisów.
 
 ## Wady i zalety
-**Wady: **
+**Wady:**
 - Trudność dla początkujących w odnalezieniu się w AWS (Mnogość serwisów),
 - Brak kontroli nad danymi przy niepoprawnej konfiguracji,
 - Bardzo dużo opcji konfiguracyjnych,
