@@ -65,5 +65,5 @@ Zalety:
 
 ## Dodatkowe informacje
 Zostały wykonane wszystkie czynności przedstawione na zajęciach oraz ćwiczenia związane z tekstowymi obrazkami w ramach zapoznania się z funkcjonalnościami Pythona.
-Do dokumentacji zostały wykorzystane materiały z zajeć zawarte pod linkiem: [Link do witryny z materiałami](http://wpc.dydaktyka.jkan.pl/) 
+Do dokumentacji zostały wykorzystane materiały z zajeć: [Link do witryny z materiałami](http://wpc.dydaktyka.jkan.pl/) 
 
