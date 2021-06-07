@@ -41,13 +41,13 @@ Funkcjonalności które zostały zawarte to:
 ## Linki do składowych projektu
 
 
-   1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
-   2. [Link do repozytorium](https://github.com/pniedziela/YourMovieHub/tree/develop)
-   3. [Link do zarządzania projektem informatycznym na AWS](https://github.com/users/kamilr96/projects/1)
-   4. [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
+   1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/DokumentacjaVideoCreatorv2/)
+   2. [Link do repozytorium](https://github.com/VerticalMalek/videocreator_v2)
+   3. [Link do zarządzania projektem informatycznym na AWS](https://s3.console.aws.amazon.com/s3/buckets/200543)
+   4. [Link do wykonanej aplikacji](https://200543.s3.eu-central-1.amazonaws.com/index.html?fbclid=IwAR2toJ584XOnn-HjbtLUULHTeKHLqewH_I3rmOgP9bNeLDaEifJDdV_v1Uo)
 
 
-
+## Wady i zalety
 
      
    
