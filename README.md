@@ -36,7 +36,7 @@ Bardziej szczegółowe funkcjonalności które zostały zawarte to:
 - **Cognito** - to prosta usługa synchronizacji tożsamości użytkowników i danych,
 - **Simple Queue Service** - to usługa kolejkowania wiadomości,
 - **Amazon Simple Email Service** - to ekonomiczna, elastyczna i skalowalna usługa poczty e-mail, która umożliwia programistom wysyłanie poczty z dowolnej aplikacji
-- **API Gateway** - to pewien rodzaj reverse proxy. Jego rolą jest odizolowanie reszty mikroserwisów od kwesti związanych z obsługą zapytań z aplikacji klienckich, a więc będzie on przekierowywał zapytania z klienta do odpowiednich serwisów.
+- **API Gateway** - to pewien rodzaj reverse proxy. Jego rolą jest odizolowanie reszty mikroserwisów od kwestii związanych z obsługą zapytań z aplikacji klienckich, a więc będzie on przekierowywał zapytania z klienta do odpowiednich serwisów.
 
 ## Wady i zalety
 **Wady:**
@@ -66,5 +66,5 @@ Bardziej szczegółowe funkcjonalności które zostały zawarte to:
 
 ## Dodatkowe informacje
 Zostały wykonane wszystkie czynności przedstawione na zajęciach oraz ćwiczenia związane z tekstowymi obrazkami w ramach zapoznania się z funkcjonalnościami Pythona.
-Do dokumentacji zostały wykorzystane materiały z zajeć: [Link do witryny z materiałami](http://wpc.dydaktyka.jkan.pl/) 
+Do dokumentacji zostały wykorzystane materiały z zajęć: [Link do witryny z materiałami](http://wpc.dydaktyka.jkan.pl/) 
 
